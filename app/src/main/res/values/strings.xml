@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">wuji</string>
+    <string name="onboarding_pre_btn_desc">pre</string>
+    <string name="onboarding_finish_btn_desc">Finish</string>
+    <string name="login_btn_login">Login</string>
+    <string name="link_to_sign_up">Don\\\'t have a account? create one</string>
+    <string name="login_account_hint_text">Enter your username here</string>
+    <string name="login_password_hint_text">Enter your password here</string>
+    <string name="input_error">What you input is invalid</string>
+    <string name="network_error">Network is not available</string>
+</resources>

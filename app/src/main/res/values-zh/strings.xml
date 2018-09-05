@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">无极网</string>
+    <string name="onboarding_pre_btn_desc">pre</string>
+    <string name="login_btn_login">Login</string>
+</resources>
